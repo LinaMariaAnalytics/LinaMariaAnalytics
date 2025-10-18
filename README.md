@@ -5,17 +5,7 @@ Me apasiona explorar, limpiar y visualizar datos para descubrir patrones que imp
 
 💡 Mi formación en el **Bootcamp de Análisis de Datos de TripleTen Latam** me permitió desarrollar proyectos aplicando **Python, Pandas, NumPy, Matplotlib y Seaborn**, desde la exploración hasta la comunicación visual de resultados.  
 
-📊 Actualmente estoy construyendo mi portafolio con proyectos como **“callme maybe – Análisis de llamadas y retención de clientes”** y **“Análisis de usuarios de e-commerce”**, centrados en la optimización de procesos mediante datos.  
-
----
-
-### 🧠 **Competencias principales**
-- Limpieza, análisis y visualización de datos  
-- Python, Pandas, NumPy, Matplotlib, Seaborn  
-- Google Colab, Jupyter Notebook  
-- Control de versiones con Git y GitHub  
-
----
+ ---
 
 ### 🌱 **En crecimiento**
 Actualmente sigo aprendiendo sobre:
@@ -35,5 +25,5 @@ Busco seguir creciendo en entornos donde el análisis y la mejora continua sean 
 📍 Lugo, España  
 ✉️ **linab0912@gmail.com**  
 💻 [GitHub](https://github.com/LinaMariaAnalytics)  
-🔗 [LinkedIn](https://www.linkedin.com/in/) *(en desarrollo)*  
+🔗 [LinkedIn]](https://www.linkedin.com/in/lina-maria-buitrago-rios/) *(en desarrollo)*  
 -->
