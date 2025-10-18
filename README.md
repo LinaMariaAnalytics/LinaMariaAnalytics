@@ -1,4 +1,9 @@
-# 👋 ¡Hola! Soy Lina María Buitrago Ríos  
+# 👋 ¡Hola! Soy Lina María Buitrago Ríos 
+
+Lina María Buitrago Ríos  
+Analista de Datos Junior | Data Analyst  
+Transformando datos en decisiones estratégicas | Turning data into strategic decisions
+
 
 🎯 **Analista de Datos Junior** enfocada en transformar información en decisiones estratégicas.  
 Me apasiona explorar, limpiar y visualizar datos para descubrir patrones que impulsen mejoras reales en los procesos.
