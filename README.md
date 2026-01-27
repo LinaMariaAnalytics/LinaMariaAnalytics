@@ -3,8 +3,15 @@
 🎯 **Analista de Datos Junior** enfocada en transformar información en decisiones estratégicas.  
 Me apasiona explorar, limpiar y visualizar datos para descubrir patrones que impulsen mejoras reales en los procesos.
 
-💡 Mi formación en el **Bootcamp de Análisis de Datos de TripleTen Latam** me permitió desarrollar proyectos aplicando **Python, Pandas, NumPy, Matplotlib y Seaborn**, desde la exploración hasta la comunicación visual de resultados.  
+💡 Mi formación en el **Bootcamp de Análisis de Datos de TripleTen Latam** me permitió desarrollar proyectos aplicando **Python, Pandas, NumPy, Matplotlib y Seaborn**, desde la exploración hasta la comunicación visual de resultados. 
 
+---
+### 💬 **Sobre mí**
+Soy una profesional curiosa, metódica y con atención al detalle.  
+Disfruto encontrar sentido en los datos y comunicar hallazgos de forma clara y visual.  
+Busco seguir creciendo en entornos donde el análisis y la mejora continua sean el motor del cambio.
+
+---
 ### 🧠 Skills
 
 #### 💻 Technical Skills
@@ -39,10 +46,7 @@ Actualmente sigo aprendiendo sobre:
 
 ---
 
-### 💬 **Sobre mí**
-Soy una profesional curiosa, metódica y con atención al detalle.  
-Disfruto encontrar sentido en los datos y comunicar hallazgos de forma clara y visual.  
-Busco seguir creciendo en entornos donde el análisis y la mejora continua sean el motor del cambio.
+
 
 ---
 
