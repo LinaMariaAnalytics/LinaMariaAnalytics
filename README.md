@@ -48,6 +48,6 @@ Busco seguir creciendo en entornos donde el análisis y la mejora continua sean 
 
 📍 Lugo, España  
 ✉️ **linab0912@gmail.com**  
-💻 [GitHub](https://github.com/LinaMariaAnalytics)  
-🔗 [LinkedIn]](https://www.linkedin.com/in/lina-maria-buitrago-rios/) *(en desarrollo)*  
+💻 [GitHub][(https://github.com/LinaMariaAnalytics)](https://github.com/LinaMariaAnalytics/LinaMariaAnalytics/blob/main/README.md)  
+🔗 [LinkedIn]][(https://www.linkedin.com/in/lina-maria-buitrago-rios/) *(en desarrollo)*](https://www.linkedin.com/in/linabuitrago-dataanalyst/)  
 -->
