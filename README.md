@@ -46,6 +46,7 @@ Busco seguir creciendo en entornos donde el análisis y la mejora continua sean 
 
 ---
 
+### **¡Conectémonos!**
 📍 Lugo, España  
 ✉️ **linab0912@gmail.com**  
 💻 [GitHub][(https://github.com/LinaMariaAnalytics)](https://github.com/LinaMariaAnalytics/LinaMariaAnalytics/blob/main/README.md)  
